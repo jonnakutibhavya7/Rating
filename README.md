@@ -34,7 +34,7 @@ This project was done according to the requirements in the challenge given in th
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 Frontend:(https://github.com/jonnakutibhavya7/rating-app-frontend)
-Backend:
+Backend:(https://github.com/jonnakutibhavya7/rating-app-backend)
 
 
 
