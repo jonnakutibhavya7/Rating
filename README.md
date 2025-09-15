@@ -34,8 +34,7 @@ This project was done according to the requirements in the challenge given in th
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-Front end: [Github](https://github.com/RajathRao2000/store-rating-app-frontend)
-Backend: [Github](https://github.com/RajathRao2000/backend_store-rating-app)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
