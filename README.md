@@ -33,6 +33,8 @@ This project was done according to the requirements in the challenge given in th
 ## MERN Stack
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
+Frontend:(https://github.com/jonnakutibhavya7/rating-app-frontend)
+Backend:
 
 
 
